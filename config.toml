@@ -100,7 +100,7 @@ disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
     name              = "Instructions"
     identifier        = "instructions"
     url               = "/instructions/"
-    pre               = "<i class='far fa-gear'></i>"
+    pre               = "<i class='far fa-paper-plane'></i>"
     weight            = 3
 
   [[menu.main]]
