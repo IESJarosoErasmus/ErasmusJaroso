@@ -11,3 +11,7 @@
   text-align: center;
   text-transform: uppercase;
 }
+
+#site-nav-menu a {
+  letter-spacing: 0.15em !important;
+}

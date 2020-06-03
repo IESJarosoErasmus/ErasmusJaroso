@@ -104,7 +104,7 @@ disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
     weight            = 3
 
   [[menu.main]]
-    name              = "Language support"
+    name              = "Languages"
     identifier        = "linguae"
     url               = "/linguae/"
     pre               = "<i class='far fa-file'></i>"
@@ -161,7 +161,7 @@ disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
       weight            = 3
 
     [[Languages.es.menu.main]]
-      name              = "Apoyo lingüístico"
+      name              = "Idiomas"
       identifier        = "linguae"
       url               = "/linguae/"
       pre               = "<i class='far fa-file'></i>"
