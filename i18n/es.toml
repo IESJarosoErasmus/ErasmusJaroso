@@ -32,8 +32,8 @@
 [learn_more]
   other = "Saber más"
 [repliestext]
-  one = "Responde normalmente en 1 hora."
-  other = "Responde normalmente en {{ .Count }} horas."
+  one = "Respondemos normalmente en 1 hora."
+  other = "Respondemos normalmente en {{ .Count }} horas."
 [submit]
   other = "Enviar"
 [404_pagenotfound]
