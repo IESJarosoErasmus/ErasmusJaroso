@@ -100,14 +100,14 @@ disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
     name              = "Instructions"
     identifier        = "instructions"
     url               = "/instructions/"
-    pre               = "<i class='far fa-file'></i>"
+    pre               = "<i class='far fa-gear'></i>"
     weight            = 3
 
   [[menu.main]]
     name              = "Languages"
     identifier        = "linguae"
     url               = "/linguae/"
-    pre               = "<i class='far fa-file'></i>"
+    pre               = "<i class='far fa-user'></i>"
     weight            = 5
 
   [[menu.main]]
@@ -157,14 +157,14 @@ disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
       name              = "Instrucciones"
       identifier        = "instructions"
       url               = "/instructions/"
-      pre               = "<i class='far fa-file'></i>"
+      pre               = "<i class='far fa-paper-plane'></i>"
       weight            = 3
 
     [[Languages.es.menu.main]]
       name              = "Idiomas"
       identifier        = "linguae"
       url               = "/linguae/"
-      pre               = "<i class='far fa-file'></i>"
+      pre               = "<i class='far fa-user'></i>"
       weight            = 5
 
     [[Languages.es.menu.main]]
