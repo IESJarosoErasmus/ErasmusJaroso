@@ -1,0 +1,187 @@
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
+baseurl                 = "https://infallible-jang-f2de3c.netlify.app"
+DefaultContentLanguage  = "es"
+title                   = "Erasmus+ IES Jaroso"
+theme                   = "hugo-future-imperfect-slim"
+paginate                = 3
+disqusShortname         = ""
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
+
+[params]
+  enableCDN             = false
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = true
+  highlightjsTheme      = "github"
+  highlightjsLang       = ["html", "css", "js", "toml"]
+  viewMorePostsLink     = "/blog/"
+  readingTime           = true
+  socialShare           = ["twitter", "facebook", "email"]
+
+  [params.meta]
+    description         = "Portal Erasmus+ del IES Jaroso. Proyectos KA102 y KA103. Powered by JJ."
+    author              = "JJ"
+    favicon             = true
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
+
+  [params.header]
+    navbarTitle         = "IES Jaroso - Erasmus"
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = true
+    languageMenu        = true
+
+  [params.intro]
+    header                = "KA102 - KA103"
+    paragraph             = "IES Jaroso"
+    rssIntro              = false
+    socialIntro           = true
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
+
+    [params.intro.pic]
+      src                 = "img/main/logo.gif"
+      shape               = ""
+      width               = ""
+      alt                 = "IES Jaroso - Erasmus"
+
+  [params.sidebar]
+    about               = "Erasmus KA102, KA103 - IES Jaroso"
+    postAmount          = 2
+    categories          = true
+    categoriesByCount   = true
+
+  [params.footer]
+    rssFooter           = false
+    socialFooter        = true
+
+  [params.staticman]
+    enabled             = true
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
+
+[menu]
+
+  [[menu.main]]
+    name              = "Home"
+    identifier        = "home"
+    url               = "/"
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1  
+    
+  [[menu.main]]
+    name              = "Projects"
+    identifier        = "about"
+    url               = "/about/"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Documents"
+    identifier        = "documents"
+    url               = "/documents/"
+    pre               = "<i class='far fa-file'></i>"
+    weight            = 4
+
+  [[menu.main]]
+    name              = "Instructions"
+    identifier        = "instructions"
+    url               = "/instructions/"
+    pre               = "<i class='far fa-file'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Language support"
+    identifier        = "linguae"
+    url               = "/linguae/"
+    pre               = "<i class='far fa-file'></i>"
+    weight            = 5
+
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact"
+    url               = "/contact/"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 7
+    
+
+[Languages]
+
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    weight              = 1
+
+  [Languages.es]
+    LanguageCode        = "es"
+    LanguageName        = "Español"
+    title               = "Erasmus - IES Jaroso"
+    description         = "Portal Erasmus+ del IES Jaroso. Proyectos KA102 y KA103. Powered by JJ."
+    weight              = 2
+
+    [[Languages.es.menu.main]]
+      name              = "Home"
+      identifier        = "home"
+      url               = "/"
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+    [[Languages.es.menu.main]]
+      name              = "Proyectos"
+      identifier        = "about"
+      url               = "/about/"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 2
+
+    [[Languages.es.menu.main]]
+      name              = "Documentos"
+      identifier        = "documents"
+      url               = "/documents/"
+      pre               = "<i class='far fa-file'></i>"
+      weight            = 4
+
+    [[Languages.es.menu.main]]
+      name              = "Instrucciones"
+      identifier        = "instructions"
+      url               = "/instructions/"
+      pre               = "<i class='far fa-file'></i>"
+      weight            = 3
+
+    [[Languages.es.menu.main]]
+      name              = "Apoyo lingüístico"
+      identifier        = "linguae"
+      url               = "/linguae/"
+      pre               = "<i class='far fa-file'></i>"
+      weight            = 5
+
+    [[Languages.es.menu.main]]
+      name              = "Contacto"
+      identifier        = "contacto"
+      url               = "/contact/"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 7
+
+
+[social]
+  # Social Networks
+  facebook              = "erasmus.iesjaroso.3"
+  whatsapp              = "" # WhatsApp Number
+  instagram             = ""
+  twitter               = "ies_jaroso"
+  snapchat              = ""
+  telegram              = ""
+  # Email
+  email                 = "dawgiatjaroso@gmail.com?Subject=Consulta%20Erasmus"
