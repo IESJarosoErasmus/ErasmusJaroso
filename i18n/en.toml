@@ -24,7 +24,7 @@
 [check_out]
   other = "Check out this post by"
 [about]
-  other = "About"
+  other = "Projects"
 [learn_more]
   other = "Learn More"
 [repliestext]
@@ -80,3 +80,9 @@
   other = "Erasmus charter for higher education"
 [epolicy]
   other = "Erasmus policy statement"
+[linguae]
+  other = "Languages"
+[documents]
+  other = "Documents"
+[instructions]
+  other = "Instrucctions"
