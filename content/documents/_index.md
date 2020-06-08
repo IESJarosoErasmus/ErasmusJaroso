@@ -17,16 +17,17 @@ images = ["img/2020/01/documentos.png"]
 ---
 
 ### Ciclos Formativos de Grado Básico y Medio (KA102) 
-- Autorización LGPD (menores de edad)
-- Autorización LGPD (mayores de edad)
-- Formulario de solicitud
-- Criterios de baremación
+- [Autorización LGPD (menores de edad)](/docs/docska102/AutorLGPDMenores.pdf)
+- [Autorización LGPD (mayores de edad)](/docs/docska102/AutorLGPDMayores.pdf)
+- [Formulario de solicitud](/docs/docska102/SolicitudKA102.pdf)
+- [Criterios de baremación](/docs/docska102/BaremacionKA102.pdf)
 - Información y documentación previa a la movilidad
 ---
 
 ### Ciclos Formativos de Grado Superior (KA103) 
-- Autorización LGPD (menores de edad)
-- Autorización LGPD (mayores de edad)
-- Formulario de solicitud
-- Criterios de baremación
+- [Autorización LGPD (menores de edad)](/docs/docska103/AutorLGPDMenores.pdf)
+- [Autorización LGPD (mayores de edad)](/docs/docska103/AutorLGPDMayores.pdf)
+- [Formulario de solicitud](/docs/docska103/SolicitudKA103.pdf)
+- [Criterios de baremación](/docs/docska103/BaremacionKA103.pdf)
+- [Carta del estudiante Erasmus](/docs/docska103/CartaEstudianteErasmus.pdf)
 - Información y documentación previa a la movilidad
