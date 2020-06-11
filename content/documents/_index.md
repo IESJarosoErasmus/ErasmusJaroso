@@ -21,7 +21,7 @@ images = ["img/2020/01/documentos.png"]
 - [Autorización LGPD (mayores de edad)](/docs/docska102/AutorLGPDMayores.pdf)
 - [Formulario de solicitud](/docs/docska102/SolicitudKA102.pdf)
 - [Criterios de baremación](/docs/docska102/BaremacionKA102.pdf)
-- Información y documentación previa a la movilidad
+- [Información y documentación previa a la movilidad](/docs/docska102/InfPreviaKA102.pdf)
 ---
 
 ### Ciclos Formativos de Grado Superior (KA103) 
@@ -30,4 +30,4 @@ images = ["img/2020/01/documentos.png"]
 - [Formulario de solicitud](/docs/docska103/SolicitudKA103.pdf)
 - [Criterios de baremación](/docs/docska103/BaremacionKA103.pdf)
 - [Carta del estudiante Erasmus](/docs/docska103/CartaEstudianteErasmus.pdf)
-- Información y documentación previa a la movilidad
+- [Información y documentación previa a la movilidad](/docs/docska103/InfPreviaKA103.pdf)
