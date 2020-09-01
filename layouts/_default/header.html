@@ -12,7 +12,11 @@
   </div>
   <div class="meta">
     <time class="published" datetime="{{ .Date }}">
-      {{ default (i18n "date_format") | .Date.Format }}
+      {{ if eq $.Site.Language.LanguageName "Español" }}
+        {{ .Date.Day }} {{ index $.Site.Data.meses (printf "%d" .Date.Month) }}, {{ .Date.Year }}
+      {{ else }}
+        {{ default (i18n "date_format") | .Date.Format }}
+      {{ end }}      
     </time>
     <span class="author">{{ .Params.author }}</span>
     {{ if .Site.Params.ReadingTime }}
