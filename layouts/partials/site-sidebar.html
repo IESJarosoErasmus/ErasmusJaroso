@@ -18,7 +18,13 @@
         </section>
         <header>
           <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-          <time class="published" datetime="">{{ default (i18n "date_format") | .Date.Format }}</time>
+          <time class="published" datetime="">
+            {{ if eq $.Site.Language.LanguageName "Español" }}
+              {{ .Date.Day }} {{ index $.Site.Data.meses (printf "%d" .Date.Month) }}, {{ .Date.Year }}
+            {{ else }}
+              {{ default (i18n "date_format") | .Date.Format }}
+            {{ end }} 
+          </time>
         </header>
       </article>
       {{ end }}
