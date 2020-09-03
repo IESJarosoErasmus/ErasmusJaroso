@@ -9,13 +9,9 @@ tags = [
 categories = [
     "noticias", "importante"
 ]
-images  = ["img/2020/01/enhorabuena.png"]
+images  = ["img/2020/01/9movilidades.gif"]
 +++
 
-El IES Jaroso ha resultado seleccionado en la adjudicación de proyectos Erasmus KA103. A falta de la posible resolución de errores nos han concedido 9 estancias de prácticas para alumnos, una de profesores para docencia, y otra de profesores para formación, durante los dos años que dura el proyecto.
-
-Desde ya animamos a todos los alumnos de los ciclos de grado superior que se animen y aprovechen esta fantástica oportunidad.
-
-Gracias en especial a nuestra coordinadora, Lorena, su enorme trabajo y empuje nos ha llevado al resto de profesores implicados (Dani y Javi) a que nuestro esfuerzo fructifique en esta adjudicación. Ahora a trabajar para que este proyecto sea un éxito para el IES Jaroso. 
+ Otro paso más en la consecución del proyecto Erasmus+ KA103 para los dos ciclos formativos de grado superior del IES Jaroso de Cuevas del Almanzora (Diseño de Aplicaciones Web, y Guía, Información y Asistencias Turísticas). Un estímulo fuerte para apostar por la Formación Profesional y realizar tus prácticas laborales en un país europeo. Para el período 2020-2022 han sido 9 las movilidades concedidas, una puede ser tuya... Europa te espera.
 
 [Adjudicación provisional KA103](/img/2020/01/InkedAdjudicacionProvisonal1-09-20_LI.jpg)

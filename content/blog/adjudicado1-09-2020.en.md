@@ -9,13 +9,9 @@ tags = [
 categories = [
     "noticias", "importante"
 ]
-images  = ["img/2020/01/enhorabuena.png"]
+images  = ["img/2020/01/9movilidades.gif"]
 +++
 
-The IES Jaroso has been selected in the award of Erasmus KA103 projects. In the absence of the possible resolution of errors, we have been granted 9 internships for students, one for teachers for teaching, and another for teachers for training, during the two years of the project.
-
-From now on we encourage all the students of the upper grade cycles to be encouraged and take advantage of this fantastic opportunity.
-
-Thanks especially to our coordinator, Lorena, her enormous work and drive has led us to the rest of the teachers involved (Dani and Javi) to make our efforts bear fruit in this award. Now to work to make this project a success for IES Jaroso.
+Another step in the achievement of the Erasmus + KA103 project for the two higher-level training cycles of the IES Jaroso de Cuevas del Almanzora (Design of Web Applications, and Guide, Information and Tourist Assistance). A strong stimulus to bet on Vocational Training and carry out your work practices in a European country. For the period 2020-2022, 9 mobilities have been granted, one can be yours ... Europe awaits you.
 
 [Provisional award KA103](/img/2020/01/InkedAdjudicacionProvisonal1-09-20_LI.jpg)
