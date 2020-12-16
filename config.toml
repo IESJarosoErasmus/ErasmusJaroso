@@ -9,6 +9,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
+ignoreErrors = ["error-remote-getjson"]
 
 [imaging]
   resampleFilter = "box"
@@ -184,7 +185,6 @@ disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
   # Social Networks
   facebook              = "erasmus.iesjaroso.3"
   whatsapp              = "" # WhatsApp Number
-  instagram             = ""
   twitter               = "ies_jaroso"
   snapchat              = ""
   telegram              = ""
