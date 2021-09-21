@@ -9,7 +9,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
-ignoreErrors = ["error-remote-getjson"]
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 [imaging]
   resampleFilter = "box"
