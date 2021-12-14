@@ -19,17 +19,19 @@ La solicitud se hará mediante el formulario que encontrarás en la pestaña [Do
 
 ### ¿CUANTAS BECAS EXISTEN?
 El número de becas varía dependiendo de los proyectos presentados y admitidos para nuestro centro.
-Para el curso 2020/2022 tenemos: 
-* 24 becas de 3 meses de duración para alumnado de los Ciclos Formativos de Grado Básico y Medio.
-* 1 beca de 6 meses de duración para alumnado de los Ciclos Formativos de Grado Medio.
+Para el curso 2020/2022 tenemos para Grado Superior: 
 * 1 beca de 6 meses de duración para alumnado de los Ciclos Formativos de Grado Superior.
 * 8 becas de 3 meses de duración para alumnado de los Ciclos Formativos de Grado Superior.
+
+Para el curso 2021/2022 tenemos para Grado Medio y Básica:
+* 3 becas de 89 días 
+
 ---  
 
 ### CUANTÍAS ECONÓMICAS  
 La Unión Europea tiene partidas presupuestarias diferentes según se trate de alumnado de Formación Profesional (Grado Básico o Medio) o de Educación Superior (Ciclos Formativos de Grado Superior).Además, las cuantías varían dependiendo del destino y de la duración de las prácticas:  
 Para más información pincha aquí:
-* *[Cuantías KA102 - Grado Básico y Medio](/docs/cuantias/CuantiasEconomicasKA102.pdf)*
+* *[Cuantías KA121 - Grado Básico y Medio](/docs/cuantias/CuantiasEconomicasKA121.pdf)*
 * *[Cuantías KA103 - Grado Superior](/docs/cuantias/CuantiasEconomicasKA103.pdf)*   
 ---
 

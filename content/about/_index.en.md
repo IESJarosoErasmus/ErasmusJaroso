@@ -20,7 +20,7 @@ We are convinced of the success of this Project, and of course, we want to invol
 ---
 
 Within the Erasmus+ programme of the IES Jaroso there are different types of mobility:
-#### KA1.02 - Basic Grade and Middle Grade Training Cycles
+#### KA121 - Basic Grade and Middle Grade Training Cycles
 This program is intended for students and recent graduates of the following IES Jaroso Training Cycles. These are:
 * Basic Grade Cycle of Electricity and Electronics.
 * Middle Degree Cycle of Administrative Management.
@@ -34,7 +34,7 @@ Students will be able to carry out a learning period based on practical work in 
 
 ---
 
-#### KA1.03 - Higher Level Training Cycles
+#### KA103 - Higher Level Training Cycles
 This program is intended for students and recent graduates of the following IES Jaroso Training Cycles. These are:
 * Cycle of Superior Degree of Development Web Applications.
 * Higher Level Cycle of Guide, Information and Tourist Assistance.

@@ -18,7 +18,7 @@ Estamos convencidos del éxito de este Proyecto, y por supuesto, queremos hacer 
 ---
 
 Dentro del Programa Erasmus+ del IES Jaroso hay diferentes tipos de movilidades:
-#### KA1.02 - Ciclos Formativos de Grado Básico y Grado Medio
+#### KA121 - Ciclos Formativos de Grado Básico y Grado Medio
 Este programa está destinado a estudiantes y recién titulados de los siguientes Ciclos Formativos del IES Jaroso. Estos son:
 * Ciclo de Grado Básico de Electricidad y Electrónica.
 * Ciclo de Grado Medio de Gestión Administrativa.
@@ -32,7 +32,7 @@ El alumnado podrá realizar un periodo de aprendizaje basado en trabajo práctic
   
 ---
 
-#### KA1.03 - Ciclos Formativos de Grado Superior
+#### KA103 - Ciclos Formativos de Grado Superior
 Este programa está destinado a estudiantes y recién titulados de los siguientes Ciclos Formativos del IES Jaroso. Estos son:  
 * Ciclo de Grado Superior de Desarrollo Aplicaciones Web.
 * Ciclo de Grado Superior de Guía, Información y Asistencias Turísticas.   

@@ -20,10 +20,12 @@ The request will be made using the form that you will find in the [Documents] ta
 ### HOW MANY SCHOLARSHIPS ARE THERE?
 The number of scholarships varies depending on the projects presented and accepted for our center.
 For the 2020/2022 course we have:
-* 24 3-month scholarships for students of the Basic and Middle Grade Training Cycles.
-* 1 scholarship of 6 months duration for students of the Medium Level Training Cycles.
 * 1 6-month scholarship for students of the Higher Level Training Cycles.
 * 8 3-month scholarships for students of the Higher Level Training Cycles.
+
+For the 2021/2022 course we have:
+* 3 89-day scholarships for students of the Basic and Middle Grade Training Cycles.
+
 ---
 
 ### ECONOMIC AMOUNTS
