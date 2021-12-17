@@ -1,7 +1,7 @@
 +++
 author = "Coordinación Erasmus"
 title = "Charla Erasmus KA121"
-date = "2021-09-21"
+date = "2021-12-16"
 description = "Jueves 16 de Diciembre a las 18:00 charla Proyecto Erasmus KA121 para Grados Medios y Básica"
 tags = [
     "ka121","erasmus+"

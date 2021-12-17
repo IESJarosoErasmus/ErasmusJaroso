@@ -1,7 +1,7 @@
 +++
 author = "Coordinación Erasmus"
 title = "Talk Erasmus KA121"
-date = "2021-09-21"
+date = "2021-12-16"
 description = "Thursday December 16 at 18:00 talk Project Erasmus KA121 for Middle and Basic Grades"
 tags = [
     "ka121","erasmus+"
