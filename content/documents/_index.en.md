@@ -21,6 +21,8 @@ images = ["img/2020/01/documentos.png"]
 - Authorization LGPD (> 18)
 - Application form
 - Scaling criteria
+- Scaling criteria (students)
+- Scaling criteria (teachers)
 - Pre-mobility documents
 ---
 
@@ -28,5 +30,6 @@ images = ["img/2020/01/documentos.png"]
 - Authorization LGPD (< 18)
 - Authorization LGPD (> 18)
 - Application form
-- Scaling criteria
+- Scaling criteria (students)
+- Scaling criteria (teachers)
 - Pre-mobility documents
