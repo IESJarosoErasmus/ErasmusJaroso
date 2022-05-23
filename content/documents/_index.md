@@ -20,7 +20,8 @@ images = ["img/2020/01/documentos.png"]
 - [Autorización LGPD (menores de edad)](/docs/docska121/AutorLGPDMenores.pdf)
 - [Autorización LGPD (mayores de edad)](/docs/docska121/AutorLGPDMayores.pdf)
 - [Formulario de solicitud](/docs/docska121/SolicitudKA121.pdf)
-- [Criterios de baremación](/docs/docska121/BaremacionKA121.pdf)
+- [Criterios de baremación alumnado](/docs/docska121/BaremacionKA121.pdf)
+- [Criterios de baremación profesorado](/docs/docsestanciasprof/baremaciondocenteka121.pdf)
 - [Información y documentación previa a la movilidad](/docs/docska121/InfPreviaKA102.pdf)
 ---
 
@@ -28,6 +29,7 @@ images = ["img/2020/01/documentos.png"]
 - [Autorización LGPD (menores de edad)](/docs/docska103/AutorLGPDMenores.pdf)
 - [Autorización LGPD (mayores de edad)](/docs/docska103/AutorLGPDMayores.pdf)
 - [Formulario de solicitud](/docs/docska103/SolicitudKA103.pdf)
-- [Criterios de baremación](/docs/docska103/BaremacionKA103.pdf)
+- [Criterios de baremación alumnado](/docs/docska103/BaremacionKA103.pdf)
+- [Criterios de baremación profesorado](/docs/docsestanciasprof/baremaciondocenteka103.pdf)
 - [Carta del estudiante Erasmus](/docs/docska103/CartaEstudianteErasmus.pdf)
 - [Información y documentación previa a la movilidad](/docs/docska103/InfPreviaKA103.pdf)
