@@ -26,7 +26,7 @@ El periodo para realizar estás movilidades será hasta el 31 de mayo de 2023 y 
 # DURACIÓN DE LA MOVILIDAD  
 La duración de la movilidad será de 7 días (2 días para viajar y 5 de estancia).
 
-# CUANTÍAS ECONÓMICAS.
+# CUANTÍAS ECONÓMICAS
 Las cuantías económicas para los días de movilidad se establecen en función del país de destino y son las siguientes:
 Países Personal de países del programa Importe por día:
 
