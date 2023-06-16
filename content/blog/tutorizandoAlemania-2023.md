@@ -1,8 +1,8 @@
 +++
 author = "Coordinación Erasmus"
-title = "Un profesor del ciclo de Laboratorio ha viajado a Alemania a tutorizar in situ a un alumno"
+title = "Viaje a Alemania a tutorizar in situ a un alumno"
 date = "2023-06-16"
-description = "Nuestro compañero Jaime, profesor del ciclo de Laboratorio, ha viajado a Alemania a tutorizar in situ a un alumno"
+description = "Nuestro compañero Jaime, profesor del ciclo de Laboratorio, ha viajado a Alemania a tutorizar nuestro alumno Nitai"
 tags = [
     "ka121","erasmus+"
 ]
