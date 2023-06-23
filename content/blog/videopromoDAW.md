@@ -2,7 +2,7 @@
 author = "Coordinación Erasmus"
 title = "Vídeo promocional del CFGS Desarrollo de Aplicaciones Web"
 date = "2023-06-23"
-description = "Hemos creado un vídeo promocional para el Ciclo Formativo de Grado Superior Desarrollo de Aplicaciones Web"
+description = "Hemos creado un vídeo promocional para el Ciclo Formativo de Grado Superior Desarrollo de Aplicaciones Web donde hacemos especial hincapié en las estancias Erasmus"
 tags = [
     "daw", "ka103", "erasmus+"
 ]
