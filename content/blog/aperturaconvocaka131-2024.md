@@ -1,7 +1,7 @@
 +++
 author = "Coordinación Erasmus"
 title = "Apertura convocatoria para estancias de movilidad en proyecto Erasmus KA131 para el año 2024"
-date = "2023-01-12"
+date = "2024-01-12"
 description = "Apertura convocatoria para estancias para profesores y alumnos en el proyecto Erasmus KA131 para ciclos formativos de Grado Superior para el año 2024"
 tags = [
     "ka131","erasmus+"
