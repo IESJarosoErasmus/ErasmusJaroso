@@ -14,7 +14,7 @@ images  = ["/img/2024/convocatoria2024ka131.jpg"]
 
 El IES Jaroso abre convocatoria para estancias de movilidad para profesores y alumnos para el curso 2023-2024. Se convocan dos estancias para alumnos y otras dos para profesores.
 
-El profesorado de los ciclos de grado Superior y los alumnos de 2º curso de los ciclos de grado Superior que esté interesado en realizar su FCT en la Unión Europea en el periodo comprendido entre Marzo y Junio del 2024, deberán solicitarlo entre el día 15 de enero de 2024 a las 9:00 al día 23 de enero de 2024 a las 14:00. 
+El profesorado de los ciclos de grado Superior y el alumnado de 2º curso de los ciclos de grado Superior que esté interesado en realizar su FCT en la Unión Europea en el periodo comprendido entre Marzo y Junio del 2024, deberán solicitarlo entre el día 15 de enero de 2024 a las 9:00 al día 23 de enero de 2024 a las 14:00. 
 
 Para ello, los **alumnos** deberán rellenar:
 -	El formulario de solicitud, el cuál te puedes descargar en el siguiente enlace: https://www.erasmusiesjaroso.com/docs/docska131/SolicitudKA131.pdf
