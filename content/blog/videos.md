@@ -1,5 +1,4 @@
 +++
-author = "JJ"
 title = "Vídeos del proyecto en 2020"
 date = "2020-03-10"
 description = "Vídeos del proyecto Erasmus de este año"

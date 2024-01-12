@@ -1,5 +1,4 @@
 +++
-author = "JJ"
 title = "Project videos"
 date = "2020-03-10"
 description = "Media about our project"
