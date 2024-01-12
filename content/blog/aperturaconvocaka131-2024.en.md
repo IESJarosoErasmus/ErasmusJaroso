@@ -1,8 +1,8 @@
 +++
 author = "Coordinación Erasmus"
-title = "Opening of the call for mobility stays in the Erasmus KA131 project"
-date = "2023-09-10"
-description = "Opening of the call for stays for teachers and students in the Erasmus KA131 project for Higher Degree vocational training"
+title = "Opening of the call for mobility stays in the Erasmus KA131 project in 2024"
+date = "2024-01-12"
+description = "Opening of the call for stays for teachers and students in the Erasmus KA131 project for Higher Degree vocational training in 2024"
 tags = [
     "ka131","erasmus+"
 ]
