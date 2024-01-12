@@ -34,7 +34,7 @@ Students will be able to carry out a learning period based on practical work in 
 
 ---
 
-#### KA103 - Higher Level Training Cycles
+#### KA131 - Higher Level Training Cycles
 This program is intended for students and recent graduates of the following IES Jaroso Training Cycles. These are:
 * Cycle of Superior Degree of Development Web Applications.
 * Higher Level Cycle of Guide, Information and Tourist Assistance.

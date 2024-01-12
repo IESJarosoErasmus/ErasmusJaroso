@@ -32,7 +32,7 @@ El alumnado podrá realizar un periodo de aprendizaje basado en trabajo práctic
   
 ---
 
-#### KA103 - Ciclos Formativos de Grado Superior
+#### KA131 - Ciclos Formativos de Grado Superior
 Este programa está destinado a estudiantes y recién titulados de los siguientes Ciclos Formativos del IES Jaroso. Estos son:  
 * Ciclo de Grado Superior de Desarrollo Aplicaciones Web.
 * Ciclo de Grado Superior de Guía, Información y Asistencias Turísticas.   

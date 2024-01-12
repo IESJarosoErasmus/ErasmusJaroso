@@ -28,7 +28,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   socialShare           = ["twitter", "facebook", "email"]
 
   [params.meta]
-    description         = "Portal Erasmus+ del IES Jaroso. Proyectos KA102 y KA103. Powered by JJ."
+    description         = "Portal Erasmus+ del IES Jaroso. Proyectos KA102 y KA131. Powered by JJ."
     author              = "JJ"
     favicon             = true
     svg                 = true
@@ -44,7 +44,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     languageMenu        = true
 
   [params.intro]
-    header                = "KA121 - KA103"
+    header                = "KA121 - KA131"
     paragraph             = "IES Jaroso"
     rssIntro              = false
     socialIntro           = true
@@ -58,7 +58,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       alt                 = "IES Jaroso - Erasmus"
 
   [params.sidebar]
-    about               = "Erasmus KA121, KA103 - IES Jaroso"
+    about               = "Erasmus KA121, KA131 - IES Jaroso"
     postAmount          = 2
     categories          = true
     categoriesByCount   = true
@@ -135,7 +135,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     LanguageCode        = "es"
     LanguageName        = "Español"
     title               = "Erasmus - IES Jaroso"
-    description         = "Portal Erasmus+ del IES Jaroso. Proyectos KA121 y KA103. Powered by JJ."
+    description         = "Portal Erasmus+ del IES Jaroso. Proyectos KA121 y KA131. Powered by JJ."
     weight              = 2
 
     [[Languages.es.menu.main]]
