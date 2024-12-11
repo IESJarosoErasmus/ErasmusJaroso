@@ -1,333 +1,576 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://www.erasmusiesjaroso.com/en/categories/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/blog/gm_2024_adama_llegado/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/categories/"
+                href="http://localhost:1313/blog/gm_2024_adama_llegado/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/categories/"
+                href="http://localhost:1313/en/blog/gm_2024_adama_llegado/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/tags/erasmus&#43;/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/tags/erasmus&#43;/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/tags/erasmus&#43;/"
+                href="http://localhost:1313/en/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/erasmus&#43;/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/"
+                href="http://localhost:1313/tags/erasmus&#43;/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/"
+                href="http://localhost:1313/en/tags/erasmus&#43;/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/categories/importante/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/categories/importante/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/categories/importante/"
+                href="http://localhost:1313/en/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/tags/ka103/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/index/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/tags/ka103/"
+                href="http://localhost:1313/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/tags/ka103/"
+                href="http://localhost:1313/en/tags/index/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/categories/noticias/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/ka121/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/categories/noticias/"
+                href="http://localhost:1313/tags/ka121/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/categories/noticias/"
+                href="http://localhost:1313/en/tags/ka121/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/blog/diarioalmeria_2-10-2020/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/noticias/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/blog/diarioalmeria_2-10-2020/"
+                href="http://localhost:1313/categories/noticias/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/blog/diarioalmeria_2-10-2020/"
+                href="http://localhost:1313/en/categories/noticias/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/blog/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/blog/"
+                href="http://localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/blog/"
+                href="http://localhost:1313/en/blog/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/tags/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/alumnosgm-erasmus-2024/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/tags/"
+                href="http://localhost:1313/blog/alumnosgm-erasmus-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/tags/"
+                href="http://localhost:1313/en/blog/alumnosgm-erasmus-2024/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/blog/adju_oficial_1-10-2020/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/actabaremacion2023ka131/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/actabaremacion2023ka131/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/actabaremacion2023ka131/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/importante/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/categories/importante/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/importante/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/ka131/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/ka131/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/ka131/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/convocatorias/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/categories/convocatorias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/convocatorias/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/aperturaconvocaka131-2024/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/aperturaconvocaka131-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/aperturaconvocaka131-2024/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/aperturaconvocaka131-2025/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/aperturaconvocaka131-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/aperturaconvocaka131-2025/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/concedidoka131-2023-2025/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/concedidoka131-2023-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/concedidoka131-2023-2025/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/tutorizandoalemania-2023/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/tutorizandoalemania-2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/tutorizandoalemania-2023/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/ka103/</loc>
+    <lastmod>2023-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/ka103/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/ka103/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/alumnos2dawireland/</loc>
+    <lastmod>2023-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/alumnos2dawireland/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/alumnos2dawireland/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/abiertoplazoprofka103/</loc>
+    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/abiertoplazoprofka103/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/abiertoplazoprofka103/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/abiertoplazoka121/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/abiertoplazoka121/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/abiertoplazoka121/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/charlaerasmuska121/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/charlaerasmuska121/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/charlaerasmuska121/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/baremacionka103verano/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/baremacionka103verano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/baremacionka103verano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/convocatoriaka103verano/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/convocatoriaka103verano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/convocatoriaka103verano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/ka120/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/ka120/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/ka120/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/media/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/categories/media/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/media/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/videoerasmus/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/videoerasmus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/videoerasmus/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/adjudicacionka120def/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/adjudicacionka120def/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/adjudicacionka120def/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/adjudicacionka120/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/adjudicacionka120/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/adjudicacionka120/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/actabaremacion2021/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/actabaremacion2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/actabaremacion2021/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/aperturaerasmusmar21/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/aperturaerasmusmar21/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/aperturaerasmusmar21/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/diarioalmeria_2-10-2020/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/diarioalmeria_2-10-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/diarioalmeria_2-10-2020/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/adju_oficial_1-10-2020/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/blog/adju_oficial_1-10-2020/"
+                href="http://localhost:1313/blog/adju_oficial_1-10-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/blog/adju_oficial_1-10-2020/"
+                href="http://localhost:1313/en/blog/adju_oficial_1-10-2020/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/blog/adjudicado1-09-2020/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/adjudicado1-09-2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/blog/adjudicado1-09-2020/"
+                href="http://localhost:1313/blog/adjudicado1-09-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/blog/adjudicado1-09-2020/"
+                href="http://localhost:1313/en/blog/adjudicado1-09-2020/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/tags/ka102/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/ka102/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/tags/ka102/"
+                href="http://localhost:1313/tags/ka102/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/tags/ka102/"
+                href="http://localhost:1313/en/tags/ka102/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/blog/provisional2020/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/provisional2020/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/blog/provisional2020/"
+                href="http://localhost:1313/blog/provisional2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/blog/provisional2020/"
+                href="http://localhost:1313/en/blog/provisional2020/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/categories/media/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/videos/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/categories/media/"
+                href="http://localhost:1313/blog/videos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/categories/media/"
+                href="http://localhost:1313/en/blog/videos/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/blog/videos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/video/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/blog/videos/"
+                href="http://localhost:1313/tags/video/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/blog/videos/"
+                href="http://localhost:1313/en/tags/video/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/tags/video/</loc>
-    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.erasmusiesjaroso.com/tags/video/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/tags/video/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/documents/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/documents/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/documents/"
+                href="http://localhost:1313/documents/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/documents/"
+                href="http://localhost:1313/en/documents/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/about/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/instructions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/instructions/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/instructions/"
+                href="http://localhost:1313/instructions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/instructions/"
+                href="http://localhost:1313/en/instructions/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/linguae/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/linguae/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/linguae/"
+                href="http://localhost:1313/linguae/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/linguae/"
+                href="http://localhost:1313/en/linguae/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.erasmusiesjaroso.com/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/contact/"
+                href="http://localhost:1313/en/contact/"
                 />
   </url>
-  
-  <url>
-    <loc>https://www.erasmusiesjaroso.com/en/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.erasmusiesjaroso.com/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.erasmusiesjaroso.com/en/tags/index/"
-                />
-  </url>
-  
 </urlset>

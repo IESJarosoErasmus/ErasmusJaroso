@@ -54,6 +54,6 @@
   {{- if .Params.Author -}}
     {{- .Scratch.Set "Author" .Params.Author -}}
   {{- else -}}
-    {{- .Scratch.Set "Author" .Author -}}
+    {{- .Scratch.Set "Author" .Params.Author -}}
   {{ end }}
 </head>

@@ -1,76 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ka103 on Erasmus - IES Jaroso</title>
-    <link>https://www.erasmusiesjaroso.com/tags/ka103/</link>
-    <description>Recent content in ka103 on Erasmus - IES Jaroso</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Ka103 on Erasmus - IES Jaroso</title>
+    <link>http://localhost:1313/tags/ka103/</link>
+    <description>Recent content in Ka103 on Erasmus - IES Jaroso</description>
+    <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.erasmusiesjaroso.com/tags/ka103/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ka103/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vídeo promocional del CFGS Desarrollo de Aplicaciones Web</title>
+      <link>http://localhost:1313/blog/videopromodaw/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/videopromodaw/</guid>
+      <description>&lt;p&gt;Este curso 2022-2023 hemos realizado un vídeo promocional para el CFGS Desarrollo de Aplicaciones Web donde mencionamos la posibilidad de realizar el módulo de FCT a través de una estancia del proyecto Erasmus+. Este año ha sido mediante el proyecto KA103 que ha llegado a su fin, y para el curso que viene será con el proyecto KA131 recientemente concedido.&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/WZ2j91PsN-Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Alumnos del CFGS de DAW (Desarrollo de Aplicaciones Web) realizando la FCT en Irlanda</title>
+      <link>http://localhost:1313/blog/alumnos2dawireland/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/alumnos2dawireland/</guid>
+      <description>&lt;p&gt;Este curso 2022-2023 hemos tenido dos solicitantes para realizar una movilidad Erasmus+ en el proyecto KA103 que finaliza este año. Como nos quedaban dos movilidades y había dos solicitantes aptos se les asignaron automáticamente las movilidades.&lt;/p&gt;&#xA;&lt;p&gt;Para buscar el destino entrevistamos a los alumnos y vimos un buen lugar para trabajar relacionado con nuestro ciclo y con el idioma extranjero que dominaban los alumnos. Finalmente el país elegido fue Irlanda.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Abierto el plazo de solicitud para movilidades del profesorado Erasmus&#43; KA103</title>
+      <link>http://localhost:1313/blog/abiertoplazoprofka103/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/abiertoplazoprofka103/</guid>
+      <description>&lt;p&gt;Se abre convocatoria para solicitar dos movilidades Erasmus+ con el objetivo, o bien, de aprender nuevas técnicas y metodologías relacionadas con la Familia Profesional correspondiente, o bien, aprender nuevas técnicas y metodologías para una buena gestión del IES Jaroso. Este tipo de movilidad no es para ir con alumnado, solo iría el docente.&lt;/p&gt;&#xA;&lt;h1 id=&#34;solicitud&#34;&gt;SOLICITUD&lt;/h1&gt;&#xA;&lt;p&gt;Quien esté interesado, deberá rellenar la solicitud adjunta y entregársela a la Coordinadora Erasmus Lorena Núñez Álvarez.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impresiones de la estancia Erasmus&#43; de nuestra alumna Julieta en Gibraltar</title>
+      <link>http://localhost:1313/blog/fctgibraltar/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/fctgibraltar/</guid>
+      <description>&lt;p&gt;Hace dos meses y medio tomé rumbo a Gibraltar para vivir una de las aventuras más bonitas de mi vida.&lt;/p&gt;&#xA;&lt;p&gt;Llena de nervios empecé mi experiencia en la agencia de viajes Elite Travel, donde me han recibido con los brazos abiertos, donde he aprendido tanto en lo profesional como lo personal.&lt;/p&gt;&#xA;&lt;p&gt;Me fui con un sabor de boca muy dulce, una experiencia que siempre recordaré y con personas que nunca olvidaré.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Baremación solicitudes becas estivales Erasmus&#43; para ciclos superiores</title>
+      <link>http://localhost:1313/blog/baremacionka103verano/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/baremacionka103verano/</guid>
+      <description>&lt;p&gt;Publicamos la baremación de las solicitudes presentadas para realizar becas de movilidad Erasmus+ en el periodo estival. Hay dos solicitudes de alumnos del ciclo superior de Guía, Información y Asistencias turísticas, y este es el orden final según la baremación realizada de acuerdo a los criterios establecidos y publicados en esta web.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apertura convocatoria becas estivales Erasmus&#43; para ciclos superiores</title>
+      <link>http://localhost:1313/blog/convocatoriaka103verano/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/convocatoriaka103verano/</guid>
+      <description>&lt;p&gt;El alumnado de nuestros ciclos de grado superior que esté interesado en realizar prácticas en el extranjero en el periodo estival de verano de 2021 deberá solicitarlo antes del 10 de Mayo del 2021.&lt;/p&gt;&#xA;&lt;p&gt;Para ello, deberán rellenar el formulario de solicitud en el siguiente enlace:&lt;br&gt;&#xA;&lt;a href=&#34;https://www.erasmusiesjaroso.com/docs/docska103/SolicitudKA103.pdf&#34;&gt;https://www.erasmusiesjaroso.com/docs/docska103/SolicitudKA103.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Luego deberán entregárselo al coordinador de Erasmus Daniel Sánchez antes de dicha fecha.&lt;/p&gt;&#xA;&lt;p&gt;Una vez recibidas las solicitudes, se procederá a hacer la selección de los participantes conforme a los criterios de baremación publicados en nuestra Web. La publicación provisional de los candidatos seleccionados se realizará antes del 12 de Mayo de 2021.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Acta baremación alumnos solicitantes Erasmus&#43;</title>
+      <link>http://localhost:1313/blog/actabaremacion2021/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/actabaremacion2021/</guid>
+      <description>&lt;p&gt;Como sólo hay un alumno que haya solicitado participar en Erasmus+ este curso entonces queda seleccionado automáticamente.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apertura del plazo para solicitar becas Erasmus&#43;</title>
+      <link>http://localhost:1313/blog/aperturaerasmusmar21/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/aperturaerasmusmar21/</guid>
+      <description>&lt;p&gt;Se abre el plazo para solicitar becas de movilidad Erasmus+ para prácticas de alumnado de ciclos formativos de Grado Superior (tanto para la realización de la FCT como para el alumnado recién titulado) Son dos las becas de movilidad Erasmus+ KA103 las ofertadas en esta ocasión.&lt;/p&gt;&#xA;&lt;p&gt;El alumnado de 2º curso de nuestros ciclos formativos de Grado Superior que esté interesado en realizar el módulo profesional FCT (Formación en Centros de Trabajo) en la UE (Unión Europea) en el periodo comprendido entre marzo y junio de 2021, deberá solicitarlo antes del 22 de diciembre de 2020.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nuestra apuesta por Erasmus&#43; aparece en el periódico</title>
-      <link>https://www.erasmusiesjaroso.com/blog/diarioalmeria_2-10-2020/</link>
+      <link>http://localhost:1313/blog/diarioalmeria_2-10-2020/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/blog/diarioalmeria_2-10-2020/</guid>
-      <description>&amp;ldquo;El pasado 29 de septiembre este centro educativo recibió la confirmación del Servicio Español para la Internacionalización de la Educación (SEPIE), adscrito al Ministerio de Universidades, de que ha sido admitida su solicitud de movilidades para estudiantes y docentes dentro del marco de Educación Superior entre países del programa. Concretamente han sido concedidas 9 movilidades para estudiantes de los dos ciclos formativos de Formación Profesional de Grado Superior del centro (Diseño de Aplicaciones Web y Guía, Información y Asistencias Turísticas), además de otras 2 para el profesorado, y 14.</description>
+      <guid>http://localhost:1313/blog/diarioalmeria_2-10-2020/</guid>
+      <description>&lt;p&gt;&amp;ldquo;El pasado 29 de septiembre este centro educativo recibió la confirmación del Servicio Español para la Internacionalización de la Educación (SEPIE), adscrito al Ministerio de Universidades, de que ha sido admitida su solicitud de movilidades para estudiantes y docentes dentro del marco de Educación Superior entre países del programa. Concretamente han sido concedidas 9 movilidades para estudiantes de los dos ciclos formativos de Formación Profesional de Grado Superior del centro (Diseño de Aplicaciones Web y Guía, Información y Asistencias Turísticas), además de otras 2 para el profesorado, y 14.900 € de fondos adjudicados.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Adjudicadas de forma definitiva 9 movilidades para el proyecto KA103</title>
-      <link>https://www.erasmusiesjaroso.com/blog/adju_oficial_1-10-2020/</link>
+      <link>http://localhost:1313/blog/adju_oficial_1-10-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/blog/adju_oficial_1-10-2020/</guid>
-      <description>Los ciclos formativos de grado superior del IES Jaroso están de enhorabuena, nuestro proyecto Erasmus+ para formarse, aprender y vivir una experiencia internacional es ya una realidad.
-9 movilidades para los ciclos Diseño de Aplicaciones Web y Guía, Información y Asistencia Turística. En total 27 meses a distribuir.
-No podemos estar más contentos.</description>
+      <guid>http://localhost:1313/blog/adju_oficial_1-10-2020/</guid>
+      <description>&lt;p&gt;Los ciclos formativos de grado superior del IES Jaroso están de enhorabuena, nuestro proyecto Erasmus+ para formarse, aprender y vivir una experiencia internacional es ya una realidad.&lt;/p&gt;&#xA;&lt;p&gt;9 movilidades para los ciclos Diseño de Aplicaciones Web y Guía, Información y Asistencia Turística. En total 27 meses a distribuir.&lt;/p&gt;&#xA;&lt;p&gt;No podemos estar más contentos.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Adjudicado el proyecto KA103</title>
-      <link>https://www.erasmusiesjaroso.com/blog/adjudicado1-09-2020/</link>
+      <link>http://localhost:1313/blog/adjudicado1-09-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/blog/adjudicado1-09-2020/</guid>
-      <description>Otro paso más en la consecución del proyecto Erasmus+ KA103 para los dos ciclos formativos de grado superior del IES Jaroso de Cuevas del Almanzora (Diseño de Aplicaciones Web, y Guía, Información y Asistencias Turísticas). Un estímulo fuerte para apostar por la Formación Profesional y realizar tus prácticas laborales en un país europeo. Para el período 2020-2022 han sido 9 las movilidades concedidas, una puede ser tuya&amp;hellip; Europa te espera.</description>
+      <guid>http://localhost:1313/blog/adjudicado1-09-2020/</guid>
+      <description>&lt;p&gt;Otro paso más en la consecución del proyecto Erasmus+ KA103 para los dos ciclos formativos de grado superior del IES Jaroso de Cuevas del Almanzora (Diseño de Aplicaciones Web, y Guía, Información y Asistencias Turísticas). Un estímulo fuerte para apostar por la Formación Profesional y realizar tus prácticas laborales en un país europeo. Para el período 2020-2022 han sido 9 las movilidades concedidas, una puede ser tuya&amp;hellip; Europa te espera.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Adminisión provisional en KA102 y KA103</title>
-      <link>https://www.erasmusiesjaroso.com/blog/provisional2020/</link>
+      <link>http://localhost:1313/blog/provisional2020/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/blog/provisional2020/</guid>
-      <description>El IES Jaroso ha sido admitido en la resolución provisional de los proyectos solicitados Erasmus+, tanto KA102, como KA103.
-Estamos muy contentos, podemos decir que empieza nuestra aventura !!! Enhorabuena !!!
-Gracias en especial a nuestra coordinadora, Lorena, su enorme trabajo ha sido recompensado, y a Dani y Javier que también están dando todo porque Erasmus+ salga adelante en el IES Jaroso.
-A partir de ahora, a trabajar para que estos proyectos sean una historia de éxito, mucho ánimo en el futuro que nos viene por delante.</description>
+      <guid>http://localhost:1313/blog/provisional2020/</guid>
+      <description>&lt;p&gt;El IES Jaroso ha sido admitido en la resolución provisional de los proyectos solicitados Erasmus+, tanto KA102, como KA103.&lt;/p&gt;&#xA;&lt;p&gt;Estamos muy contentos, podemos decir que empieza nuestra aventura !!!  Enhorabuena !!!&lt;/p&gt;&#xA;&lt;p&gt;Gracias en especial a nuestra coordinadora, Lorena, su enorme trabajo ha sido recompensado, y a Dani y Javier que también están dando todo porque Erasmus+ salga adelante en el IES Jaroso.&lt;/p&gt;&#xA;&lt;p&gt;A partir de ahora, a trabajar para que estos proyectos sean una historia de éxito, mucho ánimo en el futuro que nos viene por delante.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Solicitud carta Eche 2020</title>
-      <link>https://www.erasmusiesjaroso.com/blog/eche2020/</link>
+      <link>http://localhost:1313/blog/eche2020/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/blog/eche2020/</guid>
-      <description>Hemos enviado la solicitud de la carta Eche para el nuevo período.
-La coordinadora ha hecho un increíble trabajo de redacción y traducción para terminar la solicitud y ya ha sido enviada.
- Parte A Parte B  </description>
+      <guid>http://localhost:1313/blog/eche2020/</guid>
+      <description>&lt;p&gt;Hemos enviado la solicitud de la carta Eche para el nuevo período.&lt;/p&gt;&#xA;&lt;p&gt;La coordinadora ha hecho un increíble trabajo de redacción y traducción para&#xA;terminar la solicitud y ya ha sido enviada.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Parte A&lt;/li&gt;&#xA;&lt;li&gt;Parte B&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
-    
     <item>
       <title>Vídeos del proyecto en 2020</title>
-      <link>https://www.erasmusiesjaroso.com/blog/videos/</link>
+      <link>http://localhost:1313/blog/videos/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/blog/videos/</guid>
+      <guid>http://localhost:1313/blog/videos/</guid>
       <description>&lt;p&gt;Aquí algunas imágenes y vídeos de nuestros proyectos&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

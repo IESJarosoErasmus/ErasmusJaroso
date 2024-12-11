@@ -30,20 +30,3 @@ images = ["img/2020/01/videos.jpg"]
 
 <br>
 
----
-
-## Twitter Simple Shortcode
-
-{{< twitter_simple 1085870671291310081 >}}
-
-<br>
-
----
-
----
-
-## Instagram Simple Shortcode
-
-{{< instagram_simple BGvuInzyFAe hidecaption >}}
-
-<br>

@@ -1,44 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>importante on Erasmus&#43; IES Jaroso</title>
-    <link>https://www.erasmusiesjaroso.com/en/categories/importante/</link>
-    <description>Recent content in importante on Erasmus&#43; IES Jaroso</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Importante on Erasmus&#43; IES Jaroso</title>
+    <link>http://localhost:1313/en/categories/importante/</link>
+    <description>Recent content in Importante on Erasmus&#43; IES Jaroso</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.erasmusiesjaroso.com/en/categories/importante/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/importante/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grading of students and teachers requesting Erasmus&#43; stays Ka131 2024</title>
+      <link>http://localhost:1313/en/blog/actabaremacion2023ka131/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/actabaremacion2023ka131/</guid>
+      <description>&lt;p&gt;There is only one student who has requested to participate in Erasmus+ ka131 this course so he/she is automatically selected.&#xA;Regarding the teachers, there were three applications for two places, in view of the merits presented according to the scales, Javier Guillén Benavente and Ana Vicente Belmonte were selected.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opening of the call for mobility stays in the Erasmus KA131 project in 2024</title>
+      <link>http://localhost:1313/en/blog/aperturaconvocaka131-2024/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/aperturaconvocaka131-2024/</guid>
+      <description>&lt;p&gt;The IES Jaroso opens a call for mobility stays for teachers and students for the 2023-2024 academic year. Two stays are called for students and another two for teachers.&lt;/p&gt;&#xA;&lt;p&gt;The teaching staff of the Higher degree cycles and the 2nd year students of the Higher degree cycles who are interested in completing their FCT in the European Union in the period between March and June 2024, must request it between January 15 from 2024 at 9:00 a.m. to January 23, 2024 at 2:00 p.m.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opening of the call for mobility stays in the Erasmus KA131 project in 2025</title>
+      <link>http://localhost:1313/en/blog/aperturaconvocaka131-2025/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/aperturaconvocaka131-2025/</guid>
+      <description>&lt;p&gt;The IES Jaroso opens a call for mobility stays for teachers and students for the 2024-2025 academic year. Two stays are called for students and another two for teachers.&lt;/p&gt;&#xA;&lt;p&gt;The teaching staff of the Higher degree cycles and the 2nd year students of the Higher degree cycles who are interested in completing their FCT in the European Union in the period between March and June 2025, must request it between November 25 from 2024 at 9:00 a.m. to December 9, 2024 at 2:00 p.m.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assessment of Erasmus&#43; summer scholarship applications for higher technical cycles</title>
+      <link>http://localhost:1313/en/blog/baremacionka103verano/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/baremacionka103verano/</guid>
+      <description>&lt;p&gt;We publish the scale of the applications submitted for Erasmus+ mobility grants in the summer period. There are two requests from students of the upper cycle of Guide, Information and Tourist Assistance, and this is the final order according to the scale made according to the criteria established and published on this website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opening of the call for Erasmus&#43; summer scholarships for higher cycles</title>
+      <link>http://localhost:1313/en/blog/convocatoriaka103verano/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/convocatoriaka103verano/</guid>
+      <description>&lt;p&gt;The students of our higher degree cycles who are interested in doing internships abroad in the summer period of 2021 must apply before May 10, 2021.&lt;/p&gt;&#xA;&lt;p&gt;To do this, they must fill in the application form at the following link:&lt;br&gt;&#xA;&lt;a href=&#34;https://www.erasmusiesjaroso.com/docs/docska103/SolicitudKA103.pdf&#34;&gt;https://www.erasmusiesjaroso.com/docs/docska103/SolicitudKA103.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Then they must deliver it to the Erasmus coordinator Daniel Sánchez before that date.&lt;/p&gt;&#xA;&lt;p&gt;Once the applications have been received, the selection of the participants will be made according to the scale criteria published on our website. The provisional publication of the selected candidates will be made before May 12, 2021.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Video promotion FP IES Jaroso Erasmus&#43;</title>
+      <link>http://localhost:1313/en/blog/videoerasmus/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/videoerasmus/</guid>
+      <description>&lt;video autoplay controls&gt;&#xD;&#xA;    &lt;source src=&#34;http://localhost:1313/img/2021/video.mp4&#34; type=&#39;video/mp4&#39; /&gt;&#xD;&#xA;&lt;/video&gt;&#xA;&lt;p&gt;Our colleague Dani has made a wonderful video to promote the Erasmus + project at IES Jaroso for the intermediate and higher degree cycles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Final KA120 award</title>
+      <link>http://localhost:1313/en/blog/adjudicacionka120def/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/adjudicacionka120def/</guid>
+      <description>&lt;p&gt;We are among the few centers in Almería with the Erasmus Accreditation (ka120) approved and selected for the period 2021-2027. The Erasmus accreditation implies a commitment to our European vocation for the coming years.&lt;/p&gt;&#xA;&lt;p&gt;Final resolution Erasmus Accreditation (KA120): &lt;a href=&#34;http://sepie.es/convocatoria/resoluciones.html#25&#34;&gt;http://sepie.es/convocatoria/resoluciones.html#25&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://sepie.es/doc/comunicacion/publicaciones/2021/KA120_subvenciones_2020.pdf&#34;&gt;http://sepie.es/doc/comunicacion/publicaciones/2021/KA120_subvenciones_2020.pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Award KA120</title>
+      <link>http://localhost:1313/en/blog/adjudicacionka120/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/adjudicacionka120/</guid>
+      <description>&lt;p&gt;We are! Our dream that the Jaroso Vocational Training offers the possibility of practicing and learning in Europe is closer and closer and for all training cycles. We must thank colleague Lorena for all her work, passion and dedication with the Erasmus IES Jaroso program.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Certificate of evaluation of Erasmus &#43; applicant students</title>
+      <link>http://localhost:1313/en/blog/actabaremacion2021/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/actabaremacion2021/</guid>
+      <description>&lt;p&gt;As there is only one student who has applied to participate in Erasmus + this course then he is automatically selected.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opening of the deadline to apply for Erasmus&#43;</title>
+      <link>http://localhost:1313/en/blog/aperturaerasmusmar21/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/aperturaerasmusmar21/</guid>
+      <description>&lt;p&gt;The deadline for applying for Erasmus + mobility grants for internships for students in Higher Degree training cycles is now open (both for completing the FCT and for newly graduated students). There are two Erasmus + KA103 mobility grants offered on this occasion.&lt;/p&gt;&#xA;&lt;p&gt;Students in the 2nd year of our Higher Degree training cycles who are interested in taking the professional module FCT (Workplace Training) in the EU (European Union) in the period between March and June 2021, must apply before the December 22, 2020.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Our commitment to Erasmus &#43; appears in the newspapers</title>
-      <link>https://www.erasmusiesjaroso.com/en/blog/diarioalmeria_2-10-2020/</link>
+      <link>http://localhost:1313/en/blog/diarioalmeria_2-10-2020/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/en/blog/diarioalmeria_2-10-2020/</guid>
-      <description>&amp;ldquo;On September 29 this educational center received confirmation from the Spanish Service for the Internationalization of Education (SEPIE), attached to the Ministry of Universities, that its request for mobility for students and teachers within the framework of Higher Education has been accepted between program countries. Specifically, 9 mobilities have been granted for students of the two vocational training cycles of Higher Level of the center (Design of Web Applications and Guide, Information and Tourist Assistance), in addition to another 2 for teachers, and € 14,900 of awarded funds.</description>
+      <guid>http://localhost:1313/en/blog/diarioalmeria_2-10-2020/</guid>
+      <description>&lt;p&gt;&amp;ldquo;On September 29 this educational center received confirmation from the Spanish Service for the Internationalization of Education (SEPIE), attached to the Ministry of Universities, that its request for mobility for students and teachers within the framework of Higher Education has been accepted between program countries. Specifically, 9 mobilities have been granted for students of the two vocational training cycles of Higher Level of the center (Design of Web Applications and Guide, Information and Tourist Assistance), in addition to another 2 for teachers, and € 14,900 of awarded funds.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Definitively awarded 9 mobilities for the KA103 project</title>
-      <link>https://www.erasmusiesjaroso.com/en/blog/adju_oficial_1-10-2020/</link>
+      <link>http://localhost:1313/en/blog/adju_oficial_1-10-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/en/blog/adju_oficial_1-10-2020/</guid>
-      <description>The training cycles at IES Jaroso are in luck, our Erasmus+ project to train, learn and live an international experience is now a reality.
-9 mobilities for our vocational training cycles: Web Applications Design, and Guide, Information and Tourist Assistance. In total 27 months to distribute.
-We could not be happier.</description>
+      <guid>http://localhost:1313/en/blog/adju_oficial_1-10-2020/</guid>
+      <description>&lt;p&gt;The training cycles at IES Jaroso are in luck, our Erasmus+ project to train, learn and live an international experience is now a reality.&lt;/p&gt;&#xA;&lt;p&gt;9 mobilities for our vocational training cycles: Web Applications Design, and Guide, Information and Tourist Assistance. In total 27 months to distribute.&lt;/p&gt;&#xA;&lt;p&gt;We could not be happier.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>KA103 project awarded</title>
-      <link>https://www.erasmusiesjaroso.com/en/blog/adjudicado1-09-2020/</link>
+      <link>http://localhost:1313/en/blog/adjudicado1-09-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/en/blog/adjudicado1-09-2020/</guid>
-      <description>Another step in the achievement of the Erasmus + KA103 project for the two higher-level training cycles of the IES Jaroso de Cuevas del Almanzora (Design of Web Applications, and Guide, Information and Tourist Assistance). A strong stimulus to bet on Vocational Training and carry out your work practices in a European country. For the period 2020-2022, 9 mobilities have been granted, one can be yours &amp;hellip; Europe awaits you.</description>
+      <guid>http://localhost:1313/en/blog/adjudicado1-09-2020/</guid>
+      <description>&lt;p&gt;Another step in the achievement of the Erasmus + KA103 project for the two higher-level training cycles of the IES Jaroso de Cuevas del Almanzora (Design of Web Applications, and Guide, Information and Tourist Assistance). A strong stimulus to bet on Vocational Training and carry out your work practices in a European country. For the period 2020-2022, 9 mobilities have been granted, one can be yours &amp;hellip; Europe awaits you.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

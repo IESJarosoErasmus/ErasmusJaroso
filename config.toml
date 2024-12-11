@@ -6,7 +6,7 @@ title                   = "Erasmus+ IES Jaroso"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = "erasmusiesjaroso-com"
-googleAnalytics         = ""
+author                  = "ProfeJavi"
 pluralizeListTitles     = false
 disableLanguages        = ["fr","pl","pt","de","ja","zh-CN","zh-TW"]
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
@@ -26,6 +26,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   viewMorePostsLink     = "/blog/"
   readingTime           = true
   socialShare           = ["twitter", "facebook", "email"]
+  disqusShortname         = "erasmusiesjaroso-com"
 
   [params.meta]
     description         = "Portal Erasmus+ del IES Jaroso. Proyectos KA102 y KA131. Powered by JJ."

@@ -2,41 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Erasmus - IES Jaroso</title>
-    <link>https://www.erasmusiesjaroso.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Erasmus - IES Jaroso</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.erasmusiesjaroso.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>importante</title>
-      <link>https://www.erasmusiesjaroso.com/categories/importante/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/categories/importante/</guid>
+      <title>Convocatorias</title>
+      <link>http://localhost:1313/categories/convocatorias/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/convocatorias/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>noticias</title>
-      <link>https://www.erasmusiesjaroso.com/categories/noticias/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/categories/noticias/</guid>
+      <title>Importante</title>
+      <link>http://localhost:1313/categories/importante/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/importante/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>media</title>
-      <link>https://www.erasmusiesjaroso.com/categories/media/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erasmusiesjaroso.com/categories/media/</guid>
+      <title>Noticias</title>
+      <link>http://localhost:1313/categories/noticias/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/noticias/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Media</title>
+      <link>http://localhost:1313/categories/media/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/media/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
