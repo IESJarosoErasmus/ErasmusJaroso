@@ -1,6 +1,6 @@
 +++
 author = "Coordinación Erasmus"
-title = "Nuevo formulario solicitud KA121"
+title = "New application form KA121"
 date = "2026-10-20"
 description = "The new application form for mobility activities at the intermediate vocational level (Grado Medio) under the Erasmus KA121 project is now available."
 tags = [
