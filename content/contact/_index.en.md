@@ -11,7 +11,7 @@ contactlang = "en"
 contactanswertime = 24
 +++
 
-![Erasmus Department Image](/img/2026/contacto.jpeg)
+![Erasmus Department Image](/img/2026/contacto.jpg)
 
 The Erasmus Department consists of:
 - José Miguel Sanz: Coordinator of the Erasmus KA121 project for intermediate-level vocational training at IES Jaroso. Instructor for intermediate and higher-level vocational programs in Telecommunications.
