@@ -1,7 +1,7 @@
 +++
 author = "Coordinación Erasmus"
 title = "Nuevo formulario solicitud KA121"
-date = "2026-20-10"
+date = "2026-10-20"
 description = "Ya está disponible el nuevo formulario de solicitud para las movilidades de Grado Medio del proyecto Erasmus KA121"
 tags = [
     "ka121","erasmus+"
