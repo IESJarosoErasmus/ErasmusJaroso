@@ -12,7 +12,7 @@ categories = [
 images  = ["img/2026/ka121/formsolicitudka121.png"]
 +++
 
-**New application form KA121** [Application studentsKA121](/docs/docska121/SolicitudKA121.pdf)
+**New application form KA121** [Application students KA121](/docs/docska121/SolicitudKA121.pdf)
 
 With the launch of a new KA121 project, we have updated the application form—including the project identifier and a few other minor changes. You may now fill it out and submit it to the Erasmus project coordinator for intermediate-level vocational training (Grado Medio), José Miguel Sanz (jsanmir079@g.educaand.es).
 
