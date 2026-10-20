@@ -11,12 +11,11 @@ contactlang = "en"
 contactanswertime = 24
 +++
 
-![Erasmus Department Image](/img/2023/departamentoErasmus.jpg)
+![Erasmus Department Image](/img/2026/contacto.jpeg)
 
-The Erasmus Department is made up of:
-- Lorena Núñez. Erasmus project coordinator at IES Jaroso. Teacher in the Laboratory Operations Deparment.
-- Jaime Usano. Collaborator. Head of Laboratory Operations Department. Professional training area coordinator.
-- Javier Guillén. Collaborator y web manager. Teacher in the IT Deparment.
+The Erasmus Department consists of:
+- José Miguel Sanz: Coordinator of the Erasmus KA121 project for intermediate-level vocational training at IES Jaroso. Instructor for intermediate and higher-level vocational programs in Telecommunications.
+- Javier Guillén: Coordinator of the Erasmus KA131 project for higher-level vocational training at IES Jaroso. Instructor for the higher-level vocational program in Web Application Development. Web manager for the project.
 
 IES Jaroso - Cuevas de Almanzora (Almería)  
 Phone Number: 950451705 – (Corporat. 798705))  

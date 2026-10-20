@@ -11,12 +11,11 @@ contactlang = "es"
 contactanswertime = 24
 +++
 
-![Imagen Departamento Erasmus](/img/2023/departamentoErasmus.jpg)
+![Imagen Departamento Erasmus](/img/2026/contacto.jpg)
 
 El Departamento Erasmus está formado por:
-- Lorena Núñez. Coordinadora del proyecto Erasmus en el IES Jaroso. Profesora en el ciclo de Operaciones de Laboratorio.
-- Jaime Usano. Participante. Jefe de Departamento de Operaciones de Laboratorio.
-- Javier Guillén. Participante y responsable web. Profesor en el ciclo de Desarrollo de Aplicaciones Web.
+- José Miguel Sanz. Coordinador del proyecto Erasmus KA121 para grado medio en el IES Jaroso. Profesor en los ciclos medio y superior de Telecomunicaciones.
+- Javier Guillén. Coordinador del proyecto Erasmus KA131 para grado superior en el IES Jaroso. Profesor en el ciclo formativo de grado superior de Desarrollo de Aplicaciones Web. Responsable web del proyecto.
 
 
 IES Jaroso - Cuevas de Almanzora (Almería)  
