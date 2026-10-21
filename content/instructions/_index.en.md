@@ -19,19 +19,19 @@ The request will be made using the form that you will find in the [Documents] ta
 
 ### HOW MANY SCHOLARSHIPS ARE THERE?
 The number of scholarships varies depending on the projects presented and accepted for our center.
-For the 2020/2022 course we have:
-* 1 6-month scholarship for students of the Higher Level Training Cycles.
-* 8 3-month scholarships for students of the Higher Level Training Cycles.
+For the 2026/2028 course we have:
+* 4 3-month scholarship for students of the Higher Level Training Cycles.
+* 1 7 days scholarships for teachers of the Higher Level Training Cycles or leadership team.
 
-For the 2021/2022 course we have:
-* 3 89-day scholarships for students of the Basic and Middle Grade Training Cycles.
+For the 2026/2028 course we have:
+* 8 89-day scholarships for students of the Middle Grade Training Cycles.
 
 ---
 
 ### ECONOMIC AMOUNTS
 The European Union has different budget items depending on whether they are Vocational Training students (Middle Degree) or Higher Education (Higher Training Cycles) .In addition, the amounts vary depending on the destination and the duration of the internship:
 For more information, click here:
-* *[Amounts KA102 - Basic and Middle Grade](/docs/amounts/CuantiasEconomicasKA102.pdf)*
+* *[Amounts KA102 - Middle Grade](/docs/amounts/CuantiasEconomicasKA102.pdf)*
 * *[Amounts KA103 - Higher Grade](/docs/amounts/CuantiasEconomicasKA103.pdf)*
 ---
 

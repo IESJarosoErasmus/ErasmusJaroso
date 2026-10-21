@@ -19,12 +19,12 @@ La solicitud se hará mediante el formulario que encontrarás en la pestaña [Do
 
 ### ¿CUANTAS BECAS EXISTEN?
 El número de becas varía dependiendo de los proyectos presentados y admitidos para nuestro centro.
-Para el periodo 2023/2025 tenemos para Grado Superior: 
+Para el periodo 2026/2028 tenemos para Grado Superior: 
 * 4 becas de 3 meses de duración para alumnado de los Ciclos Formativos de Grado Superior.
-* 2 becas de 7 días de duración para profesorado
+* 1 beca de 7 días de duración para profesorado
 
-Para el curso 2021/2022 tenemos para Grado Medio y Básica:
-  ? becas de 89 días 
+Para el curso 2026/2028 tenemos para Grado Medio:
+  8 becas de 89 días para alumnado 
 
 ---  
 
