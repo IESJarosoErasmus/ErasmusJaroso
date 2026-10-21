@@ -91,7 +91,7 @@ En este *[enlace](/docs/CompromisoCalidad.pdf)*  puedes ver nuestro Compromiso d
 
 ### CRITERIOS DE SELECCIÓN DEL ALUMNADO
 El criterio de baremación a la hora de realizar la selección del alumnado participante en estos proyectos Erasmus+ será la siguiente:
-##### Criterios de baremación para el alumnado de los Ciclos Formativos de Grado Básico y Medio:
+##### Criterios de baremación para el alumnado de los Ciclos Formativos de Grado Medio:
 - Expediente académico: la puntuación máxima será de 10 puntos.
 - Idiomas. La puntuación máxima será de 6 puntos:
 

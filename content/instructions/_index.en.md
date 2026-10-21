@@ -29,7 +29,7 @@ For the 2021/2022 course we have:
 ---
 
 ### ECONOMIC AMOUNTS
-The European Union has different budget items depending on whether they are Vocational Training students (Basic or Middle Degree) or Higher Education (Higher Training Cycles) .In addition, the amounts vary depending on the destination and the duration of the internship:
+The European Union has different budget items depending on whether they are Vocational Training students (Middle Degree) or Higher Education (Higher Training Cycles) .In addition, the amounts vary depending on the destination and the duration of the internship:
 For more information, click here:
 * *[Amounts KA102 - Basic and Middle Grade](/docs/amounts/CuantiasEconomicasKA102.pdf)*
 * *[Amounts KA103 - Higher Grade](/docs/amounts/CuantiasEconomicasKA103.pdf)*

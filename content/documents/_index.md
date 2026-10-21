@@ -16,7 +16,7 @@ images = ["img/2020/01/documentos.png"]
 - [Cómo hacer una entrevista](https://www.monster.es/orientacion-laboral/articulo/como-hacer-una-entrevista-perfecta)
 ---
 
-### Ciclos Formativos de Grado Básico y Medio (KA121) 
+### Ciclos Formativos de Grado Medio (KA121) 
 - [Autorización LGPD (menores de edad)](/docs/docska121/AutorLGPDMenores.pdf)
 - [Autorización LGPD (mayores de edad)](/docs/docska121/AutorLGPDMayores.pdf)
 - [Formulario de solicitud](/docs/docska121/SolicitudKA121.pdf)
