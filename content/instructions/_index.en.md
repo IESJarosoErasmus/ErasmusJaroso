@@ -12,7 +12,7 @@ The request will be made using the form that you will find in the [Documents] ta
 
 2. To be able to enjoy an Erasmus + scholarship you must be a ** responsible, autonomous, sociable, decisive person with the capacity to face new challenges **.
 
-3. Of course, you must ** have passed all the theoretical-practical modules taught in your cycle ** (except for the practices at the end of the Higher Cycle first, in which you must have approved all the theoretical-practical modules of this course).
+3. Naturally, you must have passed all the theoretical-practical modules of the first year that are taught in your program.
 
 4. Once the application is submitted, you will be called for a meeting in which the ** procedures to be followed ** will be explained. Remember that Erasmus + scholarships are fixed amounts established by the European Union that in some cases, will not cover all your expenses, so you must inform yourself before their amount.
 ---

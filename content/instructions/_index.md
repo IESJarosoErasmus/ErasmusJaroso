@@ -12,7 +12,7 @@ La solicitud se hará mediante el formulario que encontrarás en la pestaña [Do
 
 2. Para poder disfrutar de una beca Erasmus+ deberás ser una **persona responsable, autónoma, sociable, resolutiva y con capacidad de enfrentar nuevos retos**.
 
-3. Por supuesto, debes **tener aprobados todos los módulos teórico-prácticos que se imparten en tu ciclo** (a excepción de las prácticas al finalizar primero de Ciclo Superior, en el cual deberás tener aprobados todos los módulos teórico-prácticos de este curso).
+3. Por supuesto, debes **tener aprobados todos los módulos teórico-prácticos de primer curso que se imparten en tu ciclo**.
 
 4. Una vez presentada la solicitud se te convocará para una reunión en la que se os explicarán los **trámites a seguir**. Recuerda que las becas Erasmus+ son unas cantidades fijas establecidas por la Unión Europea que en algunos casos, no cubrirán todos tus gastos, por eso debes informarte antes de su cuantía.
 ---
@@ -24,7 +24,7 @@ Para el periodo 2026/2028 tenemos para Grado Superior:
 * 1 beca de 7 días de duración para profesorado
 
 Para el curso 2026/2028 tenemos para Grado Medio:
-  8 becas de 89 días para alumnado 
+*  8 becas de 89 días para alumnado 
 
 ---  
 
