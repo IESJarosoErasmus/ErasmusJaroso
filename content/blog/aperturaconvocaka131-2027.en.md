@@ -1,42 +1,42 @@
 +++
 author = "Coordinación Erasmus"
-title = "Apertura convocatoria para estancias de movilidad en proyecto Erasmus KA131 para el año 2025"
-date = "2024-11-21"
-description = "Apertura convocatoria para estancias para profesores y alumnos en el proyecto Erasmus KA131 para ciclos formativos de Grado Superior para el año 2025"
+title = "Applications open for mobility placements under the Erasmus KA131 project for the 2026–2027 academic year"
+date = "2026-11-04"
+description = "Applications are open for staff and student mobility placements under the Erasmus KA131 project for higher vocational education for the 2026–2027 academic year"
 tags = [
     "ka131","erasmus+"
 ]
 categories = [
-    "noticias","convocatorias","importante"
+    "news","applications","important"
 ]
-images  = ["/img/2025/convocatoria-ka131-2025.png"]
+images  = ["/img/2027/convocatoria-ka131-2026-2028.jpeg"]
 +++
 
-El IES Jaroso abre convocatoria para estancias de movilidad para profesores y alumnos para el curso 2024-2025. Se convocan tres estancias para alumnos y otras dos para profesores.
+IES Jaroso is inviting applications for staff and student mobility placements for the 2026–2027 academic year. Four student placements and one staff placement are available.
 
-El profesorado de los ciclos de grado Superior y el alumnado de 2º curso de los ciclos de grado Superior que esté interesado en realizar su FCT en la Unión Europea en el periodo comprendido entre Marzo y Junio del 2025, deberán solicitarlo entre el día 25 de noviembre de 2024 a las 9:00 al día 9 de diciembre de 2025 a las 14:00. 
+Staff teaching higher vocational courses who are interested in job shadowing, and second-year students on higher vocational courses who are interested in completing their work-based learning placement in the European Union between March and June 2027, must apply between 9:00 a.m. on 16 November 2026 and 2:00 p.m. on 7 December 2025.
 
-Para ello, los **alumnos** deberán rellenar:
--	El formulario de solicitud, el cuál te puedes descargar en el siguiente enlace: https://www.erasmusiesjaroso.com/docs/docska131/SolicitudKA131.pdf
--	Fotocopia de DNI del alumno y tutor/es legales (si es menor de edad también fotocopia del libro de familia).
--	Autorización de derechos de imagen, el cuál te puedes descargar en el siguiente enlace: https://www.erasmusiesjaroso.com/docs/docska131/AutorLGPDMayores.pdf
--	Informe el cuál estás matriculado en el IES Jaroso y asistes con regularidad a clase.
--	En el caso de tener títulos relacionados con otros idiomas distintos al Castellano, deberás anexar una fotocopia de estos.
+To apply, **students** must submit:
+-	The application form, which can be downloaded here: https://www.erasmusiesjaroso.com/docs/docska131/SolicitudKA131.pdf
+-	A photocopy of the student's national ID and their legal guardian(s)' ID (if the student is under 18, a photocopy of the family record book must also be included).
+-	The image rights consent form, which can be downloaded here: https://www.erasmusiesjaroso.com/docs/docska131/AutorLGPDMayores.pdf
+-	A certificate confirming that you are enrolled at IES Jaroso and attend classes regularly.
+-	If you hold certificates in languages other than Spanish, please attach photocopies.
 
-Los **profesores** deberán rellenar:
--	El formulario de solicitud, el cuál te puedes descargar en el siguiente enlace: https://www.erasmusiesjaroso.com/docs/docsestanciasprof/solicitudestanciasprofka131.pdf
--   Justificante destino definitivo en el centro
--   Justificantes de haber colaborado otros años en proyectos Erasmus, en este centro o en otros.
--   Fotocopia de los títulos acreditativos de nivel de idiomas que se desee sean baremados.
+**Staff** must submit:
+-	The application form, which can be downloaded here: https://www.erasmusiesjaroso.com/docs/docsestanciasprof/solicitudestanciasprofka131.pdf
+-   Proof of permanent appointment at the school.
+-   Evidence of having participated in Erasmus projects in previous years, at this school or elsewhere.
+-   Photocopies of language certificates to be considered in the assessment.
 
-La documentación se depositará en el casillero del coordinador Erasmus para grado superior (Javier Guillén Benavente) o se le hará llegar por email (jguiben709@g.educaand.es). Una vez recibidas las solicitudes, se procederá a hacer la selección de los participantes conforme a los criterios de baremación publicados en la web del IES Jaroso. La publicación provisional de los candidatos seleccionados se realizará a principios de febrero.
+Documents should be placed in the mailbox of the Erasmus coordinator for higher vocational education (Javier Guillén Benavente) or sent to him by email (jguiben709@g.educaand.es). Once applications have been received, participants will be selected according to the assessment criteria published on the IES Jaroso website. The provisional list of selected candidates will be published in early January.
 
-Para más información puedes visitar la página web: https://www.erasmusiesjaroso.com/ y visitar nuestras Redes Sociales.
-A continuación adjunto la convocatoria. Los documentos de solicitud están en la sección de "documentos" de esta misma web.
+For more information, visit our website: https://www.erasmusiesjaroso.com/ and follow us on social media.
+The call for applications is attached below. The application documents are available in the "Documents" section of this website.
 
-Os animo a participar, vamos!!!.
+I encourage you to apply—let's go!!!
 
 
-**Convocatoria profesores** [Convocatoria profesoresKA131](/docs/docsestanciasprof/aperturaestanciasprof2025.pdf)  
+**Staff call** [KA131 staff call](/docs/docsestanciasprof/aperturaestanciasprof2027.pdf)  
 
-**Convocatoria alumnos** [Convocatoria alumnosKA131](/docs/convocatoriaalumnoska131-2025.pdf)
+**Student call** [KA131 student call](/docs/convocatoriaalumnoska131-2027.pdf)
