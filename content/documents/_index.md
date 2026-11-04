@@ -13,7 +13,7 @@ images = ["img/2020/01/documentos.png"]
 - [CV Europass](https://europass.cedefop.europa.eu/es)
 - [Cuantías económicas KA121](/docs/cuantias/CuantiasEconomicasKA102.pdf)
 - [Cuantías económicas KA131](/docs/cuantias/CuantiasEconomicasKA131.pdf)
-- [Cómo hacer una entrevista](https://www.monster.es/orientacion-laboral/articulo/como-hacer-una-entrevista-perfecta)
+- [Cómo hacer una entrevista](https://www.todofp.es/orientacion-profesional/busca-empleo-titulo-fp/entrevista-trabajo/presentacion.html)
 ---
 
 ### Ciclos Formativos de Grado Medio (KA121) 
