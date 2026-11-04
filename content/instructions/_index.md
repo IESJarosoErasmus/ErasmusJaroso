@@ -112,11 +112,11 @@ El criterio de baremación a la hora de realizar la selección del alumnado part
 | Criterio | Porcentaje |
 | --- | :---: |
 | Nota media del primer curso | 50% |
-| Entrevista personal (realizada por la comisión de profesorado correspondiente para valorar a cada uno de los candidatos, determinando objetivamente las capacidades, habilidades y actitudes necesarias para afrontar la movilidad) | 20% |
+| Entrevista personal | 20% |
 | Certificado oficial de idiomas B1 (inglés) | 5% |
 | Certificado oficial de idiomas B2 (inglés) | 5% |
 | Certificado oficial de idiomas C1 (inglés) | 5% |
 | Certificado oficial de idiomas C2 (inglés) | 10% |
-| Otros certificados oficiales de idiomas B1, B2, C1, C2 (lengua/s del país receptor de cada estudiante en la movilidad) | 5% |
+| Certificado oficial de idiomas de la lengua oficial del país de acogida | 5% |
 
 

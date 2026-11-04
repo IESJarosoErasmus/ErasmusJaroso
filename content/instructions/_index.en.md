@@ -111,9 +111,9 @@ The criterion for evaluating the selection of the students participating in thes
 | Criterion | Percentage |
 | --- | :---: |
 | Average grade of the first year | 50% |
-| Personal interview (conducted by the relevant teaching committee to assess each candidate and objectively determine the abilities, skills, and attitudes needed to undertake the mobility) | 20% |
+| Personal interview | 20% |
 | Official B1 English language certificate | 5% |
 | Official B2 English language certificate | 5% |
 | Official C1 English language certificate | 5% |
 | Official C2 English language certificate | 10% |
-| Other official B1, B2, C1, or C2 language certificates (for the language(s) of each student's host country during the mobility) | 5% |
+| Official language certificate for the host country's official language | 5% |
