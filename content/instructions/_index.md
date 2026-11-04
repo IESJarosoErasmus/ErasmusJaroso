@@ -108,13 +108,15 @@ El criterio de baremación a la hora de realizar la selección del alumnado part
 - Grado de madurez y autonomía personal: 2 puntos. Este apartado será evaluado por el Comité de Selección y el Departamento de Orientación. El Departamento de Orientación realizará una prueba sociopedagógica al alumno, pudiendo vetar cualquiera de las movilidades si considera que el participante no es apto.
 
 ##### Criterios de baremación para el alumnado de los Ciclos Formativos de Grado Superior:
-- 50%: nota media del primer curso.
-- 20%: entrevista personal (realizada por la comisión de profesorado correspondiente para valorar a cada uno de los candidatos, determinando objetivamente las capacidades, habilidades y actitudes necesarias para afrontar la movilidad).
-- 5%: certificado oficial de idiomas B1 (inglés).
-- 5%: certificado oficial de idiomas B2 (inglés).
-- 5%: certificado oficial de idiomas C1 (inglés).
-- 10%: certificado oficial de idiomas C2 (inglés).
-- 5%: otros certificados oficiales de idiomas B1, B2, C1, C2 (lengua/s del país receptor de cada estudiante en la movilidad).
 
+| Criterio | Porcentaje |
+| --- | :---: |
+| Nota media del primer curso | 50% |
+| Entrevista personal (realizada por la comisión de profesorado correspondiente para valorar a cada uno de los candidatos, determinando objetivamente las capacidades, habilidades y actitudes necesarias para afrontar la movilidad) | 20% |
+| Certificado oficial de idiomas B1 (inglés) | 5% |
+| Certificado oficial de idiomas B2 (inglés) | 5% |
+| Certificado oficial de idiomas C1 (inglés) | 5% |
+| Certificado oficial de idiomas C2 (inglés) | 10% |
+| Otros certificados oficiales de idiomas B1, B2, C1, C2 (lengua/s del país receptor de cada estudiante en la movilidad) | 5% |
 
 

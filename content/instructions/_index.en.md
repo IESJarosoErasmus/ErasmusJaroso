@@ -107,10 +107,13 @@ The criterion for evaluating the selection of the students participating in thes
 - Degree of maturity and personal autonomy: 2 points. This section will be evaluated by the Selection Committee and the Guidance Department. The Guidance Department will carry out a socio-pedagogical test for the student, and may veto any of the mobility if it considers that the participant is not suitable.
 
 ##### Scaling criteria for students of Higher Level Training Cycles:
-- 50%: average grade of the first course.
-- 20%: personal interview (carried out by the corresponding teaching commission to assess each of the candidates, objectively determining the capacities, abilities and attitudes necessary to face mobility).
-- 5%: official B1 language certificate (English).
-- 5%: official B2 language certificate (English).
-- 5%: official C1 language certificate (English).
-- 10%: official certificate of languages C2 (English).
-- 5%: other official language certificates B1, B2, C1, C2 (language / s of the receiving country of each student in mobility).
+
+| Criterion | Percentage |
+| --- | :---: |
+| Average grade of the first year | 50% |
+| Personal interview (conducted by the relevant teaching committee to assess each candidate and objectively determine the abilities, skills, and attitudes needed to undertake the mobility) | 20% |
+| Official B1 English language certificate | 5% |
+| Official B2 English language certificate | 5% |
+| Official C1 English language certificate | 5% |
+| Official C2 English language certificate | 10% |
+| Other official B1, B2, C1, or C2 language certificates (for the language(s) of each student's host country during the mobility) | 5% |

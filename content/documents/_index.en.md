@@ -12,7 +12,7 @@ images = ["img/2020/01/documentos.png"]
 - [Sexual history](https://sede.mjusticia.gob.es/cs/Satellite/Sede/es/tramites/certificado-registro-central)
 - [CV Europass](https://europass.cedefop.europa.eu/es)
 - [Benefits KA121](/docs/cuantias/CuantiasEconomicasKA102.pdf)
-- [Benefits KA103](/docs/cuantias/CuantiasEconomicasKA103.pdf)
+- [Benefits KA103](/docs/cuantias/CuantiasEconomicasKA131.pdf)
 - [How to do a job interview](https://www.todofp.es/orientacion-profesional/busca-empleo-titulo-fp/entrevista-trabajo/presentacion.html)
 ---
 
