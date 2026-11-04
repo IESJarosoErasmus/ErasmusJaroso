@@ -111,12 +111,12 @@ El criterio de baremación a la hora de realizar la selección del alumnado part
 
 | Criterio | Porcentaje |
 | --- | :---: |
-| Nota media del primer curso | 50% |
+| Nota media del primer curso | 40% |
 | Entrevista personal | 20% |
 | Certificado oficial de idiomas B1 (inglés) | 5% |
 | Certificado oficial de idiomas B2 (inglés) | 5% |
-| Certificado oficial de idiomas C1 (inglés) | 5% |
-| Certificado oficial de idiomas C2 (inglés) | 10% |
+| Certificado oficial de idiomas C1 (inglés) | 10% |
+| Certificado oficial de idiomas C2 (inglés) | 15% |
 | Certificado oficial de idiomas de la lengua oficial del país de acogida | 5% |
 
 

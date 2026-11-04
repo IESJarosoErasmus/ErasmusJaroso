@@ -110,10 +110,10 @@ The criterion for evaluating the selection of the students participating in thes
 
 | Criterion | Percentage |
 | --- | :---: |
-| Average grade of the first year | 50% |
+| Average grade of the first year | 40% |
 | Personal interview | 20% |
 | Official B1 English language certificate | 5% |
 | Official B2 English language certificate | 5% |
-| Official C1 English language certificate | 5% |
-| Official C2 English language certificate | 10% |
+| Official C1 English language certificate | 10% |
+| Official C2 English language certificate | 15% |
 | Official language certificate for the host country's official language | 5% |
