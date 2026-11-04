@@ -31,8 +31,8 @@ For the 2026/2028 course we have:
 ### ECONOMIC AMOUNTS
 The European Union has different budget items depending on whether they are Vocational Training students (Middle Degree) or Higher Education (Higher Training Cycles) .In addition, the amounts vary depending on the destination and the duration of the internship:
 For more information, click here:
-* *[Amounts KA102 - Middle Grade](/docs/amounts/CuantiasEconomicasKA102.pdf)*
-* *[Amounts KA103 - Higher Grade](/docs/amounts/CuantiasEconomicasKA103.pdf)*
+* *[Amounts KA102 - Middle Grade](/docs/cuantias/CuantiasEconomicasKA121.pdf)*
+* *[Amounts KA103 - Higher Grade](/docs/cuantias/CuantiasEconomicasKA131.pdf)*
 ---
 
 ### WHEN CAN I LEAVE?
