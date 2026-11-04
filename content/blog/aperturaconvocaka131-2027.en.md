@@ -9,7 +9,7 @@ tags = [
 categories = [
     "news","applications","important"
 ]
-images  = ["/img/2027/convocatoria-ka131-2026-2028.jpeg"]
+images  = ["/img/2027/ka131/convocatoria-ka131-2026-2028.jpeg"]
 +++
 
 IES Jaroso is inviting applications for staff and student mobility placements for the 2026–2027 academic year. Four student placements and one staff placement are available.

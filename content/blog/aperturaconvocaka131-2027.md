@@ -9,7 +9,7 @@ tags = [
 categories = [
     "noticias","convocatorias","importante"
 ]
-images  = ["/img/2027/convocatoria-ka131-2026-2028.jpeg"]
+images  = ["/img/2027/ka131/convocatoria-ka131-2026-2028.jpeg"]
 +++
 
 El IES Jaroso abre convocatoria para estancias de movilidad para profesores y alumnos para el curso 2026-2027. Se convocan cuatro estancias para alumnos y una para profesores.
